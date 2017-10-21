@@ -1,0 +1,17 @@
+body {
+  background-color: yellow;
+}
+ 
+.dog-imgs {
+	width: 260px;
+	height: 260px;
+}
+
+#sunset {
+	width: 100%;
+	height: 200px;
+}
+
+a {
+	font-size: 24px;
+}
